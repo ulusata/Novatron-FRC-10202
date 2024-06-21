@@ -45,6 +45,6 @@ To run the tests, use the following command:
 * Follow the instructions in the [README.md](url) file located in the simulations directory to set up and run simulations.
   
 ## Additional Resources
-* Refer to the [README.md](https://github.com/ulusata/IronStags-FRC/blob/main/README.md) file for an overview of the project.
-* Check the [CONTRIBUTING.md](https://github.com/ulusata/IronStags-FRC/blob/main/docs/CONTRIBUTING.md) file for guidelines on contributing to the project.
+* Refer to the [README.md](https://github.com/ulusata/Novatron-FRC/blob/main/README.md) file for an overview of the project.
+* Check the [CONTRIBUTING.md](https://github.com/ulusata/Novatron-FRC/blob/main/docs/CONTRIBUTING.md) file for guidelines on contributing to the project.
 * If you encounter any issues during setup, please open an issue on GitHub.
