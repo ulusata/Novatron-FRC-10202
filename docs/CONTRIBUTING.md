@@ -15,3 +15,17 @@ Here are some guidelines to help you get started in our team.
 2. Create a new branch for your feature or bug fix:
    ```sh
    git checkout -b feature-name
+3. Make your changes and ensure they pass all tests.
+   
+## Coding Standards
+* Follow the existing code style in the project.
+* Write clear, concise, and well-documented code.
+* Include unit tests for new features and bug fixes.
+
+## Commit Messages
+* Use imperative mood in commit messages (e.g., "Add feature" not "Added feature").
+* Provide a clear and concise description of the changes.
+
+## Review Process
+* All pull requests will be reviewed by project maintainers.
+* Feedback will be provided and may require updates to your pull request before it is merged.
