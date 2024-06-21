@@ -13,10 +13,10 @@ Welcome to the FRC Novatron Robotics Team repository! This repository houses the
 * **Simulation Support:** Tools and instructions for simulating robot operations.
 
 ## Getting Started
-To set up your development environment and start contributing, please refer to the [**docs/setup.md**](https://github.com/ulusata/IronStags-FRC/blob/main/docs/setup.md) file.
+To set up your development environment and start contributing, please refer to the [**docs/setup.md**](https://github.com/ulusata/Novatron-FRC/blob/main/docs/setup.md) file.
 
 Contribution Guidelines
-We welcome contributions from all team members of Novatron. Please review the [**docs/CONTRIBUTING.md**](https://github.com/ulusata/IronStags-FRC/blob/main/docs/CONTRIBUTING.md) file for instructions on how to contribute effectively.
+We welcome contributions from all team members of Novatron. Please review the [**docs/CONTRIBUTING.md**](https://github.com/ulusata/Novatron-FRC/blob/main/docs/CONTRIBUTING.md) file for instructions on how to contribute effectively.
 
 ## Workplace
 All of our contributors are invited to our workplace environment, [**Novatron-FRC**](https://trello.com/invite/novatronfrc/ATTI17286132a2f39e8ac839af173f4663a5A0066F46)
