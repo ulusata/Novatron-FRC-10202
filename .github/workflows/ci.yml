@@ -4,11 +4,9 @@ on:
   push:
     branches:
       - main
-      - develop
   pull_request:
     branches:
       - main
-      - develop
 
 jobs:
   build:
@@ -22,6 +20,7 @@ jobs:
         uses: actions/setup-java@v2
         with:
           java-version: 11
+          distribution: 'adopt' # Options: 'adopt', 'zulu', 'temurin', etc.
 
       - name: Cache Gradle dependencies
         uses: actions/cache@v2
