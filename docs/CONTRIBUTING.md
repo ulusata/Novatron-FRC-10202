@@ -1,4 +1,4 @@
-# Contributing to FRC Robot Project
+# Contributing to FRC Novatron Project
 
 Here are some guidelines to help you get started in our team.
 
