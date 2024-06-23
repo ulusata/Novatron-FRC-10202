@@ -15,7 +15,7 @@ Welcome to the FRC Novatron Robotics Team repository! This repository houses the
 ## Getting Started
 To set up your development environment and start contributing, please refer to the [**docs/setup.md**](https://github.com/ulusata/Novatron-FRC/blob/main/docs/setup.md) file.
 
-Contribution Guidelines
+## Contribution Guidelines
 We welcome contributions from all team members of Novatron. Please review the [**docs/CONTRIBUTING.md**](https://github.com/ulusata/Novatron-FRC/blob/main/docs/CONTRIBUTING.md) file for instructions on how to contribute effectively.
 
 ## Workplace
