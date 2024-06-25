@@ -1,13 +1,13 @@
 # Novatron Team Learning Resources
-[![EN]][https://github.com/ulusata/Novatron-FRC-10202] [![TR]][]
+[EN](https://github.com/ulusata/Novatron-FRC-10202/blob/main/docs/learning/README-EN.md) | [TR](https://github.com/ulusata/Novatron-FRC-10202/blob/main/docs/learning/README-TR.md)
 
 #### NOTE: This page is under development.
 
 This list includes:
-1- Online Learning Platforms
-2- Digital Books
-3- Online Courses
-4- Online Documents
+* Online Learning Platforms
+*  Digital Books
+* Online Courses
+* Online Documents
 
 ## Online Learning Platforms
 These applications under this heading encourage your learning process with trial and debugging while completing the given tasks.
@@ -33,7 +33,7 @@ These applications under this heading encourage your learning process with trial
 
 ## Online Courses
 * [Sıfırdan Komple Java Geliştirici Kursu](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/?couponCode=ST18MT62524)
-[Java 17 Masterclass: Start Coding in 2024](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=ST18MT62524)
+* [Java 17 Masterclass: Start Coding in 2024](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=ST18MT62524)
 
 ## Online Documentations
 * [Java Documentation](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
