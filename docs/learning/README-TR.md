@@ -11,7 +11,7 @@ Bu liste içerisinde bulunanlar:
 
 ## Online Eğitim Platformları
 Bu başlık altındaki uygulamalar anında deneme ve yanılma ile öğrenme sürecinizi teşviklerken verilen görevleri
-yaparken daha iyi öğrenirsiniz.
+yaparken daha iyi öğrenmeye imkan bulursunuz.
 * Codecademy: [Java Öğren](https://www.codecademy.com/catalog/language/java) (Temel - Orta - İleri Seviye)
 * W3Schools : [Java Öğren](w3schools.com/java/) (Temel Seviye) Referans olarak kullanılabilir.
 
