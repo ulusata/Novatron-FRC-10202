@@ -1,13 +1,13 @@
 # Novatron Yazılım Ekibi Öğrenim Kaynakları
-[![EN]][https://github.com/ulusata/Novatron-FRC-10202] [![TR]][]
+[EN](https://github.com/ulusata/Novatron-FRC-10202/blob/main/docs/learning/README-EN.md) | [TR](https://github.com/ulusata/Novatron-FRC-10202/blob/main/docs/learning/README-TR.md)
 
 #### NOT: Bu sayfa geliştirme aşamasındadır.
 
 Bu liste içerisinde bulunanlar:
-1- Online Eğitim Uygulamaları
-2- Dijital Kitaplar
-3- Online  Kurslar
-4- Online Dökümanlar
+* Online Eğitim Uygulamaları
+* Dijital Kitaplar
+* Online  Kurslar
+* Online Dökümanlar
 
 ## Online Eğitim Platformları
 Bu başlık altındaki uygulamalar anında deneme ve yanılma ile öğrenme sürecinizi teşviklerken verilen görevleri
@@ -34,7 +34,7 @@ yaparken daha iyi öğrenirsiniz.
 
 ## Online Kurslar
 * [Sıfırdan Komple Java Geliştirici Kursu](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/?couponCode=ST18MT62524)
-[Java 17 Masterclass: Start Coding in 2024](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=ST18MT62524)
+* [Java 17 Masterclass: Start Coding in 2024](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=ST18MT62524)
 
 ## Online Dökümanlar
 * [Java dökümanı](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
