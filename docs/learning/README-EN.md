@@ -39,3 +39,4 @@ These applications under this heading encourage your learning process with trial
 * [Java Documentation](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
 * [WPILIB API Documentation](https://github.wpilib.org/allwpilib/docs/release/java/)
 * [WPILIB Java Source Codes](https://github.wpilib.org/allwpilib/docs/release/java/)
+* [WPILIB Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html)
